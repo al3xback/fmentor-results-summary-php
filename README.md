@@ -12,10 +12,6 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 - **Bonus**: Use the local JSON data to dynamically populate the content
 
-### Links
-
-- Live Site URL: https://al3xback.github.io/fmentor-results-summary-php/
-
 ## My process
 
 ### Built with
