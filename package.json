@@ -1,16 +1,8 @@
 {
 	"name": "fmentor-results-summary-php",
+	"private": true,
 	"version": "1.0.0",
-	"description": "results summary component using php",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/al3xback/fmentor-results-summary-php.git"
-	},
+	"type": "module",
 	"author": "alex <al3xback@gmail.com>",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/al3xback/fmentor-results-summary-php/issues"
-	},
-	"homepage": "https://github.com/al3xback/fmentor-results-summary-php#readme"
+	"license": "ISC"
 }
